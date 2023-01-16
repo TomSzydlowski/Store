@@ -1,0 +1,118 @@
+let suitsItemsData = [
+    {
+      id: "p1",
+      name: "tomassini",
+      price: 88,
+      desc: "Elegant Suit",
+      img: "img/products/p1.png",
+    },
+    {
+      id: "p2",
+      name: "pomidorisso",
+      price: 85,
+      desc: "Elegant Suit",
+      img: "img/products/p2.png",
+    },
+    {
+      id: "p3",
+      name: "bezinho",
+      price: 75,
+      desc: "Elegant Suit",
+      img: "img/products/p3.png",
+    },
+    {
+      id: "p4",
+      name: "martinelli",
+      price: 79,
+      desc: "Elegant Suit",
+      img: "img/products/p4.png",
+    },
+    {
+        id: "p5",
+        name: "tomassini",
+        price: 82,
+        desc: "Elegant Suit",
+        img: "img/products/p5.png",
+      },
+      {
+        id: "p6",
+        name: "pomidorisso",
+        price: 87,
+        desc: "Elegant Suit",
+        img: "img/products/p6.png",
+      },
+      {
+        id: "p7",
+        name: "bezinho",
+        price: 93,
+        desc: "Elegant Suit",
+        img: "img/products/p7.png",
+      },
+      {
+        id: "p8",
+        name: "martinelli",
+        price: 99,
+        desc: "Elegant Suit",
+        img: "img/products/p8.png",
+      },
+  ];
+
+
+  let shirtsItemsData = [
+      {
+        id: "n1",
+        name: "roberto",
+        price: 37,
+        desc: "Men's Shirt",
+        img: "img/products/n1.jpeg",
+      },
+      {
+        id: "n2",
+        name: "pomidorisso",
+        price: 29,
+        desc: "Men's Shirt",
+        img: "img/products/n2.jpeg",
+      },
+      {
+        id: "n3",
+        name: "bezinho",
+        price: 34,
+        desc: "Men's Shirt",
+        img: "img/products/n3.jpeg",
+      },
+      {
+        id: "n4",
+        name: "martinelli",
+        price: 29,
+        desc: "Men's Shirt",
+        img: "img/products/n4.jpeg",
+      },
+      {
+          id: "n5",
+          name: "tomassini",
+          price: 32,
+          desc: "Men's Shirt",
+          img: "img/products/n5.jpeg",
+        },
+        {
+          id: "n6",
+          name: "pomidorisso",
+          price: 35,
+          desc: "Men's Shirt",
+          img: "img/products/n6.jpeg",
+        },
+        {
+          id: "n7",
+          name: "bezinho",
+          price: 28,
+          desc: "Men's Shirt",
+          img: "img/products/n7.jpeg",
+        },
+        {
+          id: "n8",
+          name: "martinelli",
+          price: 33,
+          desc: "Men's Shirt",
+          img: "img/products/n8.jpeg",
+        },
+  ];
